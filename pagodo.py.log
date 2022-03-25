@@ -1,0 +1,26 @@
+2022-03-26 00:55:43,748 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T00:55:43.748852
+2022-03-26 00:55:43,748 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10' through proxy ''
+2022-03-26 00:55:44,724 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 00:55:44,724 [MainThread  ] [INFO] Sleeping 41.4 seconds before executing the next dork search...
+2022-03-26 00:56:26,143 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4' through proxy ''
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] Results: 3 URLs found for Google dork: intitle:index.of people.lst
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/6nsVK5Xi
+https://pastebin.com/Vrwz37kd
+https://pastebin.com/qDAW5LAY
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] Sleeping 41.5 seconds before executing the next dork search...
+2022-03-26 00:57:21,198 [MainThread  ] [INFO] Search ( 3 / 7341 ) for Google dork [ site:pastebin.com index.of.secret ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100404 Ubuntu/10.04 (lucid) Firefox/3.6.3' through proxy ''
+2022-03-26 00:57:57,511 [MainThread  ] [INFO] Results: 11 URLs found for Google dork: index.of.secret
+2022-03-26 00:57:57,512 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/PrpmPSFW
+https://pastebin.com/diff/1ndqG7aq
+https://pastebin.com/kEarUkRz
+https://pastebin.com/N4X0uh4J
+https://pastebin.com/diff/Zc26UMi3
+https://pastebin.com/s34E52pD
+https://pastebin.com/diff/JHgbhTMX
+https://pastebin.com/HbZGf9bC
+https://pastebin.com/xFmzMZ42
+https://pastebin.com/1ndqG7aq
+https://pastebin.com/Zc26UMi3
+2022-03-26 00:57:57,512 [MainThread  ] [INFO] Sleeping 52.8 seconds before executing the next dork search...

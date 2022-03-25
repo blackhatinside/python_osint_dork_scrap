@@ -1,0 +1,32 @@
+2022-03-26 00:55:43,749 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-26 00:55:44,299 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-26 00:55:44,300 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=site%3Apastebin.com+intitle%3A%22Ganglia%22+%22Cluster+Report+for%22&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-26 00:55:44,724 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-26 00:56:26,195 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-26 00:56:26,725 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-26 00:56:26,725 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=site%3Apastebin.com+intitle%3Aindex.of+people.lst&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-26 00:56:27,214 [MainThread  ] [INFO] Found unique URL #1: https://pastebin.com/6nsVK5Xi
+2022-03-26 00:56:27,214 [MainThread  ] [INFO] Found unique URL #2: https://pastebin.com/Vrwz37kd
+2022-03-26 00:56:27,214 [MainThread  ] [INFO] Found unique URL #3: https://pastebin.com/qDAW5LAY
+2022-03-26 00:56:27,214 [MainThread  ] [INFO] Sleeping 12 seconds until retrieving the next page of results...
+2022-03-26 00:56:39,223 [MainThread  ] [INFO] Stats: start=100, num=100, total_valid_links_found=3 / max_search_result_urls_to_return=100
+2022-03-26 00:56:39,223 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=site%3Apastebin.com+intitle%3Aindex.of+people.lst&start=100&num=100&tbs=li:1&safe=off&cr=&filter=0
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-26 00:57:21,199 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-26 00:57:21,755 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-26 00:57:21,756 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=site%3Apastebin.com+index.of.secret&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-26 00:57:22,265 [MainThread  ] [INFO] Found unique URL #1: https://pastebin.com/PrpmPSFW
+2022-03-26 00:57:22,266 [MainThread  ] [INFO] Found unique URL #2: https://pastebin.com/diff/1ndqG7aq
+2022-03-26 00:57:22,266 [MainThread  ] [INFO] Found unique URL #3: https://pastebin.com/kEarUkRz
+2022-03-26 00:57:22,266 [MainThread  ] [INFO] Found unique URL #4: https://pastebin.com/N4X0uh4J
+2022-03-26 00:57:22,266 [MainThread  ] [INFO] Found unique URL #5: https://pastebin.com/diff/Zc26UMi3
+2022-03-26 00:57:22,267 [MainThread  ] [INFO] Found unique URL #6: https://pastebin.com/s34E52pD
+2022-03-26 00:57:22,267 [MainThread  ] [INFO] Found unique URL #7: https://pastebin.com/diff/JHgbhTMX
+2022-03-26 00:57:22,267 [MainThread  ] [INFO] Found unique URL #8: https://pastebin.com/HbZGf9bC
+2022-03-26 00:57:22,268 [MainThread  ] [INFO] Found unique URL #9: https://pastebin.com/xFmzMZ42
+2022-03-26 00:57:22,268 [MainThread  ] [INFO] Found unique URL #10: https://pastebin.com/1ndqG7aq
+2022-03-26 00:57:22,268 [MainThread  ] [INFO] Found unique URL #11: https://pastebin.com/Zc26UMi3
+2022-03-26 00:57:22,269 [MainThread  ] [INFO] Sleeping 7 seconds until retrieving the next page of results...
+2022-03-26 00:57:29,273 [MainThread  ] [INFO] Stats: start=100, num=100, total_valid_links_found=11 / max_search_result_urls_to_return=100
+2022-03-26 00:57:57,009 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=site%3Apastebin.com+index.of.secret&start=100&num=100&tbs=li:1&safe=off&cr=&filter=0
+2022-03-26 00:57:57,511 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
